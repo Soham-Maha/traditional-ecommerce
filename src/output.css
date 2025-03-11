@@ -600,11 +600,14 @@
     border-style: var(--tw-border-style);
     border-width: 1px;
   }
-  .text-red-100 {
-    color: var(--color-red-100);
+  .text-blue-200 {
+    color: var(--color-blue-200);
   }
-  .text-red-400 {
-    color: var(--color-red-400);
+  .text-blue-400 {
+    color: var(--color-blue-400);
+  }
+  .text-blue-800 {
+    color: var(--color-blue-800);
   }
   .lowercase {
     text-transform: lowercase;
